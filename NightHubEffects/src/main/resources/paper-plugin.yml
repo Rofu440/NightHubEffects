@@ -1,0 +1,6 @@
+name: NightHubEffects
+version: '1.0'
+main: org.rofu.nighthubeffects.NightHubEffects
+api-version: '1.20'
+author: Rofu
+description: вечные еффекты
